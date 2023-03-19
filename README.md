@@ -5,7 +5,6 @@ This project demonstrates how to control an LED connected to an STM32 microcontr
 - HC-05 Bluetooth module
 - LED
 - Breadboard and jumper wires
-## Prerequisites
 - STM32CubeIDE installed on your system
 - An application to control an LED installed or built on your Android phone
 ## Installation
