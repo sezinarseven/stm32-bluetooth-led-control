@@ -1,5 +1,11 @@
 # USART Bluetooth LED Control with HAL Library on STM32
 This project demonstrates how to control an LED connected to an STM32 microcontroller via Bluetooth using an Android app. The project uses the STM32CubeIDE development environment and the HAL library.
+
+
+https://user-images.githubusercontent.com/88224304/226205790-feadaa2b-443d-470f-be17-0bcf0b2c6bd4.mp4
+
+
+
 ## Requirements
 - STM32F4 Discovery board
 - HC-05 Bluetooth module
